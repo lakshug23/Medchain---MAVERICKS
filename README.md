@@ -11,16 +11,16 @@ A blockchain-powered medical supply chain management platform. This project demo
 - Patient verification and QR code integration
 
 ## Demo Video
-[![Demo Video](public/Screenshot-2025-07-15-at-8.18.49PM.png)](https://youtu.be/dJR3k6kuW3o?si=c1jcCMIg3V1b5t3M)
+[![Demo Video]("public/Screenshot 2025-07-15 at 8.18.49 PM.png")](https://youtu.be/dJR3k6kuW3o?si=c1jcCMIg3V1b5t3M)
 
 ## Screenshots
-![Login Page](public/Screenshot-2025-07-15-at-8.18.49PM.png)
-![Manufacturer Dashboard](public/Screenshot-2025-07-15-at-8.19.30PM.png)
-![Distributer Dashboard](public/Screenshot-2025-07-15-at-8.19.44PM.png)
-![Hospital/Pharmacy Dashboard](public/Screenshot-2025-07-15-at-8.19.58PM.png)
-![Patient Verification](public/Screenshot-2025-07-15-at-8.20.13PM.png)
-![AI Forecasting](public/Screenshot-2025-07-15-at-8.20.26PM.png)
-![Admin/Regulator](public/Screenshot-2025-07-15-at-8.21.02PM.png)
+![Login Page]("public/Screenshot 2025-07-15 at 8.18.49 PM.png")
+![Manufacturer Dashboard]("public/Screenshot 2025-07-15 at 8.19.30 PM.png")
+![Distributer Dashboard]("public/Screenshot 2025-07-15 at 8.19.44 PM.png")
+![Hospital/Pharmacy Dashboard]("public/Screenshot 2025-07-15 at 8.19.58 PM.png")
+![Patient Verification]("public/Screenshot 2025-07-15 at 8.20.13 PM.png")
+![AI Forecasting]("public/Screenshot 2025-07-15 at 8.20.26 PM.png")
+![Admin/Regulator]("public/Screenshot 2025-07-15 at 8.21.02 PM.png")
 
 ## Getting Started
 
